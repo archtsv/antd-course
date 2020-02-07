@@ -2,7 +2,7 @@
 .umi
 node_modules
 miniprogram_npm
-  / dist
+dist
 
 # local env files
   .env.local
